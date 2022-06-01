@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @jleeand
+- 👀 I’m interested in data-driven web development
+- 🌱 I’m currently learning Next.js
+- 💞️ I’m looking to collaborate on open-source React libraries
+- 📫 Reach me at jleeand@outlook.com
