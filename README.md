@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jleeand
 - 👀 I’m interested in data-driven web development
 - 🌱 I’m currently learning Next.js
-- 💞️ I’m looking to collaborate on open-source React libraries
+- 💞️ I’m looking to collaborate on open-source data science projects
 - 📫 Reach me at jleeand@outlook.com
 
 ### :hammer_and_wrench: Languages and Tools :
